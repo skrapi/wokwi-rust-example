@@ -4,7 +4,7 @@
     "author": "Sylvan Smit <sylvan@hey.com>",
     "parts": [
         {
-            "type": "board-esp32-c3-devkitm-1",
+            "type": "board-esp32-c3-rust-1",
             "id": "esp",
             "top": 0.59,
             "left": 0.67,
